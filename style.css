@@ -18,7 +18,7 @@ body{
 
 }
 label{
-    color: #d2dc35;
+    color: #4035dc;
     font-size: large;
 }
 .desc{
@@ -28,7 +28,7 @@ label{
     font-size: large;
 }
 .desc p{
-    color: rgb(255, 255, 255);
+    color: rgb(226, 10, 10);
     text-decoration:underline;
      
 }
